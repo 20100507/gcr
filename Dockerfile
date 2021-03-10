@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/zeppelin:v0.5.6_v1
+FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v1.9.8
